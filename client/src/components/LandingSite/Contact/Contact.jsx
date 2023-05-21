@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import emailjs from '@emailjs/browser';
 
 function Contact() {
-  const [email, setEmail] = useState('');
   const [subject, setSubject] = useState('');
   const [message, setMessage] = useState('');
   const [isSending, setIsSending] = useState(false);
