@@ -1,0 +1,2 @@
+MONGO_URI="mongodb+srv://mda1458:70Zs8W95jEXgiJ2H@hostel.fnykjmx.mongodb.net/hostel"
+JWT_SECRET = "Anappleadaykeepsthedoctoraway"
